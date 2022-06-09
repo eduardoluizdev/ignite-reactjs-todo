@@ -56,7 +56,7 @@ Project developed during the ReactJS Ignite Course from [Rocketseat](https://www
 
 Before you begin, you will need to have the following tools installed on your machine:
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/) and Expo app (if using mobile version) [Android] (https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS] (https://apps.apple.com/app/expo-go/id982107779). 
+In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
 #### Running the web application (Frontend)
 
