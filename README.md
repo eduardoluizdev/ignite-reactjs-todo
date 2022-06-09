@@ -12,7 +12,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/bfukumori/ignite-reactjs-todo?style=social">
   </a>
 
-  <a href="https://ignite-reactjs-todo.vercel.app/">
+  <a href="https://ignite-reactjs-todo.vercel.app">
     <img alt="ignite-reactjs-todo" src="https://img.shields.io/badge/ignite-reactjs-todo-%237159c1?style=flat&logo=ghost">
   </a>
 </p>
