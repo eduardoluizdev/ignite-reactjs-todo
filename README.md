@@ -1,15 +1,15 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bfukumori/ignite-reactjs-todo?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eduardoluizdev/ignite-reactjs-todo?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bfukumori/ignite-reactjs-todo">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/eduardoluizdev/ignite-reactjs-todo">
  
-  <a href="https://github.com/bfukumori/ignite-reactjs-todo/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bfukumori/ignite-reactjs-todo">
+  <a href="https://github.com/eduardoluizdev/ignite-reactjs-todo/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eduardoluizdev/ignite-reactjs-todo">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/bfukumori/ignite-reactjs-todo/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/bfukumori/ignite-reactjs-todo?style=social">
+   <a href="https://github.com/eduardoluizdev/ignite-reactjs-todo/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/eduardoluizdev/ignite-reactjs-todo?style=social">
   </a>
 
   <a href="https://ignite-reactjs-todo.vercel.app">
@@ -26,7 +26,6 @@
   <a href="#features">Features</a> •
   <a href="#how-it-works">How it works</a> • 
   <a href="#tech-stack">Tech Stack</a> • 
-  <a href="#author">Author</a> • 
   <a href="#user-content-license">License</a>
 </p>
 
@@ -38,7 +37,7 @@
 
 📃 - Todo app made with React.
 
-Project developed during the ReactJS Ignite Course from [Rocketseat](https://www.rocketseat.com.br/ignite).
+Project developed during the ReactJS Ignite Course in its second version from [Rocketseat](https://www.rocketseat.com.br/ignite).
 
 ---
 
@@ -84,23 +83,10 @@ $ npm run dev
 
 The following tools were used in the construction of the project:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[PhosphorIcons](https://phosphoricons.com/)**
 - **[Vite](https://vitejs.dev/)**
-
----
-## Author
-
-<a href="https://www.facebook.com/bruno.fukumori.9/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82473580?v=4" width="100px;" alt="Bruno Fukumori"/>
- <br />
-  
- <sub><b>Bruno Fukumori</b></sub></a> <a href="https://www.facebook.com/bruno.fukumori.9/" title="facebook"></a>
- <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hi_fukujp)](https://twitter.com/hi_fukujp) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bfukumori/)](https://www.linkedin.com/in/bfukumori/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunofukumori@gmail.com)](mailto:brunofukumori@gmail.com)
 
 ---
 
